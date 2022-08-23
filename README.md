@@ -1,1 +1,2 @@
 # GitLearn
+modify git readme 
